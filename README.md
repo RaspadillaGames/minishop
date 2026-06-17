@@ -1,4 +1,4 @@
-# MiniShop — Proyecto Tecsup
+# MiniShop — Laboratorios
 
 API REST para gestión de productos. Proyecto base para Labs 12, 13 y 14 del curso Construcción y Pruebas de Software.
 
